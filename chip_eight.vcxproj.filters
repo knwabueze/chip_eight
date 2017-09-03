@@ -14,4 +14,91 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="interpreter.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ROMs\15PUZZLE">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\BLINKY">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\BLITZ">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\BRIX">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\CONNECT4">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\GUESS">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\HIDDEN">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\INVADERS">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\KALEID">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\MAZE">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\MERLIN">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\MISSILE">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\PONG">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\PONG2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\PUZZLE">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\SYZYGY">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\TANK">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\TETRIS">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\TICTAC">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\UFO">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\VBRIX">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\VERS">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ROMs\WIPEOFF">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
