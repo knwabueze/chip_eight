@@ -17,6 +17,7 @@ namespace Interpreter
 
 		// General-purpose 8-bit registers initialization
 		unsigned char V[0x10];
+		unsigned char& VF = V[0xF];
 
 		// 16-bit I register declaration
 		unsigned short I;
