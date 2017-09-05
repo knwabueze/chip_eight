@@ -15,3 +15,6 @@ This implementation of the CHIP-8 interpreter comes with a primitive debugger, a
 * Compiler + Linker: Visual C++ / MSVC
 * Graphics/Audio Library: SDL2
 * Platform: Windows
+
+### What resources were used?
+Cowgod's Chip-8 Technical Reference - http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
